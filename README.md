@@ -1,7 +1,7 @@
 # Khatastroffik Blog Community
 Welcome!
 
-This repository is used as a communication platform related to the **Khatastroffik" blog.
+This repository is used as a communication platform related to the **Khatastroffik** blog.
 
 Feel free to leave a comment, make some suggestion or share your feelings on the postings and pages of the blog.
 Thank you for beeing gentle :-) in using this channel!
