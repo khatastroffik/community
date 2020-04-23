@@ -17,12 +17,12 @@ Nevertheless, you may also leave a *comment* by manually creating/editing an iss
 
 > *The blog doesn't want and doesn't need to save and manage any personal data related to its visitors!*
 
-There's intentionally no functionality to comment on the blog directly!
+There's *intentionally* no functionality to comment on the blog directly!
 
-This due to the **European Information Privacy and Data Protection laws** the blog must enforce in order to protect its visitors!
-1. The blog should not implement a *commenting functionality* on its own. This would require the blog to safely manage visitors' personal data and comments - a very hard path to follow!
-1. The blog should not (seamlessly) integrate a *commenting service* implemented by an external provider. This could expose the visitor at the first contact with the blog, though without or prior his acknowledgement. The blog cannot rely on this kind of service.
+This due to the **European/German Information Privacy and Data Protection laws** the blog must enforce in order to protect its visitors!
+1. The blog should not implement a *commenting functionality* on its own. This would require the blog to safely manage it's visitors' personal data and comments - a very hard path to follow, at least when standard blogging tools like *Ghost*, *Wordpres* etc. are used!
+1. The blog should not (seamlessly) integrate any *commenting service* implemented by an external provider. This could expose the visitor at the first contact with the blog, though without i.e. prior his acknowledgement. The blog cannot rely on this kind of service.
 
-Though, a link from the blog to this github repository does *disengage* the blog responsability:
+Though, a simple link/URL from the blog to this github repository does *disengage* the blog responsability:
 - it is the explicit decision of any blog visitor to click on the link and thus switch to the github platform, if so desired.
-
+This is precisely the implemented solution.
